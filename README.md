@@ -52,24 +52,5 @@ Você está desenvolvendo um programa para uma concessionária que será respons
 
 ### Questão 3
 
-Você deverá criar um programa Java que receberá um número inteiro e desenhará um triângulo retângulo começando pela base utilizando asteriscos. Por exemplo:
-
-Se o usuário informar o número 9, o seguinte triângulo deverá ser desenhado pela aplicação:
-
-    *
-   ***
-  *****
- *******
-*********
-### Extra: Caso queira, desenhar uma segunda pirâmide abaixo da primeira, exemplo:
-
-   	*
-   ***
-  *****
- *******
-*********
-*********
- *******
-  *****
-   ***
-    *
+Você deverá criar um programa Java que receberá um número inteiro e desenhará um triângulo retângulo começando pela base utilizando asteriscos. 
+### Extra: Caso queira, desenhar uma segunda pirâmide abaixo da primeira.
