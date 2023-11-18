@@ -6,12 +6,12 @@ public class QuestionThree {
 
         // Recebendo o valor da base da priramide:
         System.out.println("Digite um número ímpar:");
-        int pyramideBase = scan.nextInt();
+        int pyramidBase = scan.nextInt();
 
         // Construindo a pirâmide:
         int firstPyramid = 1;
-        while (firstPyramid <= pyramideBase) {
-            int firstSpaces = (pyramideBase - firstPyramid) / 2;
+        while (firstPyramid <= pyramidBase) {
+            int firstSpaces = (pyramidBase - firstPyramid) / 2;
             while (firstSpaces >= 1) {
                 System.out.printf(" ");
                 firstSpaces--;
@@ -22,6 +22,5 @@ public class QuestionThree {
             firstPyramid++;
             System.out.println("\n");
         }
-
     }
 }
